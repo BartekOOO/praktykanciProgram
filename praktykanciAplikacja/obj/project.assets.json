@@ -204,17 +204,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rojda\\source\\repos\\praktykanciAplikacja\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
+      "projectUniqueName": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
       "projectName": "praktykanciAplikacja",
-      "projectPath": "C:\\Users\\rojda\\source\\repos\\praktykanciAplikacja\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
+      "projectPath": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
       "packagesPath": "C:\\Users\\rojda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rojda\\source\\repos\\praktykanciAplikacja\\praktykanciAplikacja\\obj\\",
+      "outputPath": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rojda\\source\\repos\\praktykanciAplikacja\\NuGet.Config",
+        "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\NuGet.Config",
         "C:\\Users\\rojda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

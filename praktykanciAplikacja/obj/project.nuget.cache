@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qkfYf2TZYsy4n8F7Svk6wl8ggUACycrh+5ZXJ1syiiSj2CJEZXaTbmbBRDTRA6y1ljF/qNx9cuwEwqX1fUhEw==",
+  "dgSpecHash": "2VRLnT0EoOP5lAaG/1lQNv1wqW1qYd4d68wKl/P+PeqAgh/NypW06ysr8PMoP0cDJU3ThlFO8BH050GTf2FF7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rojda\\source\\repos\\praktykanciAplikacja\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
+  "projectFilePath": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rojda\\.nuget\\packages\\devextreme.aspnet.core\\23.2.5\\devextreme.aspnet.core.23.2.5.nupkg.sha512",
     "C:\\Users\\rojda\\.nuget\\packages\\devextreme.aspnet.data\\3.0.0\\devextreme.aspnet.data.3.0.0.nupkg.sha512",
