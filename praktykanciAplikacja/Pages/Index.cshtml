@@ -8,18 +8,15 @@ Html.DevExtreme().DataGrid<Apprentices>()
     .ShowBorders(true)
     .DataSource(d => d.Mvc().Controller("SampleData").LoadAction("Get").Key("id"))
     .Columns(columns => {
-        columns.AddFor(m => m.id);
-        columns.AddFor(m => m.firstName);
-        columns.AddFor(m => m.lastName);
-        columns.AddFor(m => m.desiredPosition);
-        columns.AddFor(m => m.dateSubmitted);
-        columns.AddFor(m => m.addres.getAddres());
-        columns.AddFor(m => m.dateOfBirth);
+        columns.AddFor(m => m.id).Caption("Lp.");
+        columns.AddFor(m => m.firstName).Caption("Imie");
+        columns.AddFor(m => m.lastName).Caption("Nazwisko");
+        columns.AddFor(m => m.desiredPosition).Caption("Stanowisko");
+        columns.AddFor(m => m.dateSubmitted).Caption("Data zg³oszenia");
+        columns.AddFor(m => m.addres).Caption("Miejsce zamieszkania");
+        columns.AddFor(m => m.dateOfBirth).Caption("Data urodzenia");
     })
-    .Paging(p => p.PageSize(10))
-    .FilterRow(f => f.Visible(true))
-    .HeaderFilter(f => f.Visible(true))
-    .GroupPanel(p => p.Visible(true))
+    .Paging(p => p.PageSize(6))
     .Grouping(g => g.AutoExpandAll(false))
     .RemoteOperations(true)
     .Summary(s => s
