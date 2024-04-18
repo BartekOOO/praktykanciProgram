@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\models\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\models\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\controllers\\sampledatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\controllers\\sampledatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\models\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\models\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\models\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\praktykanciaplikacja.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\praktykanciaplikacja.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|c:\\users\\rojda\\onedrive\\pulpit\\praktykanciprogram\\praktykanciaplikacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC177D6-13CE-4555-8162-A98310E52040}|praktykanciAplikacja\\praktykanciAplikacja.csproj|solutionrelative:praktykanciaplikacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Pages\\Error.cshtml",
@@ -70,24 +70,22 @@
               "RelativeToolTip": "praktykanciAplikacja\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T12:14:45.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T12:14:45.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "praktykanciAplikacja",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\praktykanciAplikacja.csproj",
               "ToolTip": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\praktykanciAplikacja.csproj",
               "RelativeToolTip": "praktykanciAplikacja\\praktykanciAplikacja.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T11:47:41.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T11:47:41.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SampleDataController.cs",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Controllers\\SampleDataController.cs",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Controllers\\SampleDataController.cs",
@@ -100,20 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "praktykanciAplikacja\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwEMAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-18T11:47:21.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Pages\\_ViewImports.cshtml",
@@ -121,12 +119,11 @@
               "RelativeToolTip": "praktykanciAplikacja\\Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T11:47:11.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T11:47:11.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Pages\\_ViewStart.cshtml",
@@ -134,38 +131,37 @@
               "RelativeToolTip": "praktykanciAplikacja\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T11:47:08.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T11:47:08.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Program.cs",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Program.cs",
               "ToolTip": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Program.cs",
               "RelativeToolTip": "praktykanciAplikacja\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T11:47:00.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Addres.cs",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Models\\Addres.cs",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Models\\Addres.cs",
               "ToolTip": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Models\\Addres.cs",
               "RelativeToolTip": "praktykanciAplikacja\\Models\\Addres.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswBQAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T08:08:13.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Apprentices.cs",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Models\\Apprentices.cs",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Models\\Apprentices.cs",
@@ -173,12 +169,11 @@
               "RelativeToolTip": "praktykanciAplikacja\\Models\\Apprentices.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAgwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:55:49.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T07:55:49.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SampleData.cs",
               "DocumentMoniker": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Models\\SampleData.cs",
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Models\\SampleData.cs",
@@ -186,8 +181,7 @@
               "RelativeToolTip": "praktykanciAplikacja\\Models\\SampleData.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAswBcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:54:48.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T07:54:48.968Z"
             },
             {
               "$type": "Document",
@@ -197,7 +191,7 @@
               "RelativeDocumentMoniker": "praktykanciAplikacja\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\rojda\\OneDrive\\Pulpit\\praktykanciProgram\\praktykanciAplikacja\\Pages\\Index.cshtml",
               "RelativeToolTip": "praktykanciAplikacja\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA8AAABGAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-18T07:54:29.49Z",
               "EditorCaption": ""

@@ -1,8 +1,36 @@
 @page
 @using praktykanciAplikacja.Models
 
-<h2>Dodawanie nowych praktykantów</h2>
 
+
+@(
+Html.DevExtreme().Form<praktykanciAplikacja.Models.Apprentices>()
+    .ColCount(4)
+    .Items(items => {
+
+        items.AddSimpleFor(m => m.firstName).DataField("Imie");
+        items.AddSimpleFor(m => m.lastName).DataField("Nazwisko");
+        items.AddSimpleFor(m => m.desiredPosition).DataField("Stanowisko");
+        items.AddSimpleFor(m => m.dateOfBirth).DataField("Data urodzenia");
+        items.AddSimple().DataField("Miasto").Name("fCity");
+        items.AddSimple().DataField("Ulica").Name("fStreet");
+        items.AddSimple().DataField("Numer").Name("fNumber");
+    })
+)
+
+@{
+        <br>
+    Html.DevExtreme().Button()
+            .Content("Dodaj praktykanta")
+            .ID("button1")
+            .Render();
+        <br>
+        <br>
+}
+
+
+
+<h2>Dodawanie nowych praktykantów</h2>
 @(
 Html.DevExtreme().DataGrid<Apprentices>()
     .ShowBorders(true)
@@ -13,12 +41,24 @@ Html.DevExtreme().DataGrid<Apprentices>()
         columns.AddFor(m => m.lastName).Caption("Nazwisko");
         columns.AddFor(m => m.desiredPosition).Caption("Stanowisko");
         columns.AddFor(m => m.dateSubmitted).Caption("Data zg³oszenia");
-        columns.AddFor(m => m.addres).Caption("Miejsce zamieszkania");
+        columns.Add().Caption("Miejsce zamieszkania").CalculateCellValue(
+        @<text>
+            function(data){
+                return [data.addres.street,data.addres.number,data.addres.city].join(" ");
+            }
+        </text>
+);
         columns.AddFor(m => m.dateOfBirth).Caption("Data urodzenia");
     })
     .Paging(p => p.PageSize(6))
     .Grouping(g => g.AutoExpandAll(false))
     .RemoteOperations(true)
+    .AllowColumnResizing(true)
+    .Editing(editing =>
+    {
+        editing.AllowDeleting(true).UseIcons(true);
+        editing.AllowUpdating(true).UseIcons(true);
+    })
     .Summary(s => s
         .TotalItems(totalItems => {
             totalItems.AddFor(m => m.id).SummaryType(SummaryType.Count);

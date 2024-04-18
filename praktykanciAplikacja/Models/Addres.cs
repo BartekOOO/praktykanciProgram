@@ -15,10 +15,5 @@ namespace praktykanciAplikacja.Models
             this.number = number;
         }
 
-        public string getAddres()
-        {
-            return $"{street}, {city}, {number}";
-        }
-
     }
 }
