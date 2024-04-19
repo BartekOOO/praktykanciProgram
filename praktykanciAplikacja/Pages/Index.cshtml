@@ -19,15 +19,47 @@ Html.DevExtreme().Form<praktykanciAplikacja.Models.Apprentices>()
 )
 
 @{
-        <br>
+                <br>
     Html.DevExtreme().Button()
             .Content("Dodaj praktykanta")
             .ID("button1")
+            .OnClick("addApprentices")
             .Render();
-        <br>
-        <br>
+                <br>
+                <br>
 }
 
+<script>
+
+    function addApprentices(e) {
+        const list = document.getElementById("apprent");
+
+        const firstNameInp = document.querySelector("input[name='Imie']").value;
+        const lastNameInp = document.querySelector("input[name='Nazwisko']").value;
+        const desiredPositionInpt = document.querySelector("input[name='Stanowisko']").value;
+        const cityInp = document.querySelector("input[name='Miasto']").value;
+        const streetInp = document.querySelector("input[name='Ulica']").value;
+        const numberInp = document.querySelector("input[name='Numer']").value;
+
+        var record = document.createElement("tr");
+
+
+        var firstName = document.createElement("td");
+        firstName.textContent = firstNameInp;
+
+        var lastName = document.createElement("td");
+        lastName.textContent = lastNameInp;
+
+        record.appendChild(firstName);
+        record.appendChild(lastName);
+
+        list.appendChild(record);
+
+       
+
+        
+    }
+</script>
 
 
 <h2>Dodawanie nowych praktykantów</h2>
@@ -54,10 +86,13 @@ Html.DevExtreme().DataGrid<Apprentices>()
     .Grouping(g => g.AutoExpandAll(false))
     .RemoteOperations(true)
     .AllowColumnResizing(true)
+    .ID("apprent")
     .Editing(editing =>
     {
         editing.AllowDeleting(true).UseIcons(true);
         editing.AllowUpdating(true).UseIcons(true);
+        editing.ConfirmDelete(false);
+        editing.AllowAdding(false);
     })
     .Summary(s => s
         .TotalItems(totalItems => {
